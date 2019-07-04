@@ -1,0 +1,396 @@
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\MyBlog.Api.dll.config
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\MyBlog.Api.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\MyBlog.Api.pdb
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\roslyn\csc.exe
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\roslyn\csc.exe.config
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\roslyn\csc.rsp
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\roslyn\csi.exe
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\roslyn\csi.exe.config
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\roslyn\csi.rsp
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\roslyn\System.AppContext.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\roslyn\System.Console.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\roslyn\System.IO.Compression.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\roslyn\System.Security.Claims.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\roslyn\System.ValueTuple.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\roslyn\vbc.exe
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\roslyn\vbc.exe.config
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\roslyn\vbc.rsp
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\roslyn\VBCSCompiler.exe
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\Antlr3.Runtime.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\Newtonsoft.Json.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\System.Net.Http.Formatting.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\System.Web.Helpers.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\System.Web.Http.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\System.Web.Http.WebHost.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\System.Web.Mvc.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\System.Web.Optimization.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\System.Web.Razor.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\System.Web.WebPages.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\System.Web.WebPages.Razor.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\WebGrease.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\Newtonsoft.Json.xml
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\System.Net.Http.Formatting.xml
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\System.Web.Helpers.xml
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\System.Web.Http.xml
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\System.Web.Http.WebHost.xml
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\System.Web.Mvc.xml
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\System.Web.Optimization.xml
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\System.Web.Razor.xml
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\System.Web.WebPages.xml
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\System.Web.WebPages.Razor.xml
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\Antlr3.Runtime.pdb
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\obj\Debug\MyBlog.Api.csprojAssemblyReference.cache
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\obj\Debug\MyBlog.Api.csproj.CoreCompileInputs.cache
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\obj\Debug\MyBlog.Api.csproj.CopyComplete
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\obj\Debug\MyBlog.Api.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\obj\Debug\MyBlog.Api.pdb
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\EntityFramework.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\EntityFramework.SqlServer.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\MyBlog.DTO.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\MyBlog.Service.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\MyBlog.Data.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\AutoMapper.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\MyBlog.DTO.pdb
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\MyBlog.Service.pdb
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\EntityFramework.xml
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\EntityFramework.SqlServer.xml
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\MyBlog.Data.pdb
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\MyBlog.Data.dll.config
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\AutoMapper.pdb
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\AutoMapper.xml
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\System.Web.Cors.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\System.Web.Http.Cors.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Api\bin\System.Web.Http.Cors.xml
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\MyBlog.Api.dll.config
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\MyBlog.Api.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\MyBlog.Api.pdb
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\roslyn\csc.exe
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\roslyn\csc.exe.config
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\roslyn\csc.rsp
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\roslyn\csi.exe
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\roslyn\csi.exe.config
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\roslyn\csi.rsp
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\roslyn\System.AppContext.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\roslyn\System.Collections.Immutable.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\roslyn\System.Console.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\roslyn\System.IO.Compression.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\roslyn\System.IO.FileSystem.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\roslyn\System.IO.Pipes.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\roslyn\System.Reflection.Metadata.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\roslyn\System.Security.AccessControl.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\roslyn\System.Security.Claims.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\roslyn\System.ValueTuple.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\roslyn\System.Xml.XPath.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\roslyn\vbc.exe
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\roslyn\vbc.exe.config
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\roslyn\vbc.rsp
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\roslyn\VBCSCompiler.exe
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\roslyn\VBCSCompiler.exe.config
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\Antlr3.Runtime.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\EntityFramework.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\EntityFramework.SqlServer.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\Microsoft.Web.Infrastructure.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\MyBlog.DTO.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\MyBlog.Service.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\Newtonsoft.Json.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\System.Net.Http.Formatting.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\System.Web.Cors.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\System.Web.Helpers.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\System.Web.Http.Cors.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\System.Web.Http.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\System.Web.Http.WebHost.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\System.Web.Mvc.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\System.Web.Optimization.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\System.Web.Razor.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\System.Web.WebPages.Deployment.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\System.Web.WebPages.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\System.Web.WebPages.Razor.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\WebGrease.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\MyBlog.Data.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\AutoMapper.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\MyBlog.DTO.pdb
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\MyBlog.Service.pdb
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\EntityFramework.xml
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\EntityFramework.SqlServer.xml
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\System.Net.Http.Formatting.xml
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\System.Web.Http.xml
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\System.Web.Http.Cors.xml
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\Newtonsoft.Json.xml
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\System.Web.Helpers.xml
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\System.Web.Http.WebHost.xml
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\System.Web.Mvc.xml
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\System.Web.Optimization.xml
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\System.Web.Razor.xml
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\System.Web.WebPages.xml
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\System.Web.WebPages.Deployment.xml
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\System.Web.WebPages.Razor.xml
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\Antlr3.Runtime.pdb
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\MyBlog.Data.pdb
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\MyBlog.Data.dll.config
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\AutoMapper.pdb
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\bin\AutoMapper.xml
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\obj\Debug\MyBlog.Api.csprojAssemblyReference.cache
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\obj\Debug\MyBlog.Api.csproj.CoreCompileInputs.cache
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\obj\Debug\MyBlog.Api.csproj.CopyComplete
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\obj\Debug\MyBlog.Api.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Api\obj\Debug\MyBlog.Api.pdb
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\MyBlog.Api.dll.config
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\MyBlog.Api.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\MyBlog.Api.pdb
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\roslyn\csc.exe
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\roslyn\csc.exe.config
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\roslyn\csc.rsp
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\roslyn\csi.exe
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\roslyn\csi.exe.config
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\roslyn\csi.rsp
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\roslyn\System.AppContext.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\roslyn\System.Console.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\roslyn\System.IO.Compression.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\roslyn\System.Security.Claims.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\roslyn\System.ValueTuple.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\roslyn\vbc.exe
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\roslyn\vbc.exe.config
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\roslyn\vbc.rsp
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\roslyn\VBCSCompiler.exe
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\Antlr3.Runtime.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\EntityFramework.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\EntityFramework.SqlServer.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\MyBlog.DTO.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\MyBlog.Service.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\Newtonsoft.Json.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\System.Net.Http.Formatting.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\System.Web.Cors.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\System.Web.Helpers.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\System.Web.Http.Cors.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\System.Web.Http.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\System.Web.Http.WebHost.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\System.Web.Mvc.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\System.Web.Optimization.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\System.Web.Razor.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\System.Web.WebPages.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\System.Web.WebPages.Razor.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\WebGrease.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\MyBlog.Data.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\AutoMapper.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\MyBlog.DTO.pdb
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\MyBlog.Service.pdb
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\EntityFramework.xml
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\EntityFramework.SqlServer.xml
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\System.Net.Http.Formatting.xml
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\System.Web.Http.xml
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\System.Web.Http.Cors.xml
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\Newtonsoft.Json.xml
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\System.Web.Helpers.xml
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\System.Web.Http.WebHost.xml
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\System.Web.Mvc.xml
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\System.Web.Optimization.xml
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\System.Web.Razor.xml
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\System.Web.WebPages.xml
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\System.Web.WebPages.Razor.xml
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\Antlr3.Runtime.pdb
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\MyBlog.Data.pdb
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\MyBlog.Data.dll.config
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\AutoMapper.pdb
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\bin\AutoMapper.xml
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\obj\Debug\MyBlog.Api.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\obj\Debug\MyBlog.Api.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\obj\Debug\MyBlog.Api.csproj.CopyComplete
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\obj\Debug\MyBlog.Api.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Api\obj\Debug\MyBlog.Api.pdb
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\MyBlog.Api.dll.config
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\MyBlog.Api.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\MyBlog.Api.pdb
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\roslyn\csc.exe
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\roslyn\csc.exe.config
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\roslyn\csc.rsp
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\roslyn\csi.exe
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\roslyn\csi.exe.config
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\roslyn\csi.rsp
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\roslyn\System.AppContext.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\roslyn\System.Console.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\roslyn\System.IO.Compression.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\roslyn\System.Security.Claims.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\roslyn\System.ValueTuple.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\roslyn\vbc.exe
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\roslyn\vbc.exe.config
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\roslyn\vbc.rsp
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\roslyn\VBCSCompiler.exe
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\Antlr3.Runtime.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\EntityFramework.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\EntityFramework.SqlServer.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\MyBlog.DTO.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\MyBlog.Service.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\Newtonsoft.Json.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\System.Net.Http.Formatting.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\System.Web.Cors.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\System.Web.Helpers.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\System.Web.Http.Cors.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\System.Web.Http.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\System.Web.Http.WebHost.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\System.Web.Mvc.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\System.Web.Optimization.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\System.Web.Razor.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\System.Web.WebPages.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\System.Web.WebPages.Razor.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\WebGrease.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\MyBlog.Data.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\AutoMapper.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\MyBlog.DTO.pdb
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\MyBlog.Service.pdb
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\EntityFramework.xml
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\EntityFramework.SqlServer.xml
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\System.Net.Http.Formatting.xml
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\System.Web.Http.xml
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\System.Web.Http.Cors.xml
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\Newtonsoft.Json.xml
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\System.Web.Helpers.xml
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\System.Web.Http.WebHost.xml
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\System.Web.Mvc.xml
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\System.Web.Optimization.xml
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\System.Web.Razor.xml
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\System.Web.WebPages.xml
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\System.Web.WebPages.Razor.xml
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\Antlr3.Runtime.pdb
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\MyBlog.Data.pdb
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\MyBlog.Data.dll.config
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\AutoMapper.pdb
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\bin\AutoMapper.xml
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\obj\Debug\MyBlog.Api.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\obj\Debug\MyBlog.Api.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\obj\Debug\MyBlog.Api.csproj.CopyComplete
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\obj\Debug\MyBlog.Api.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Api\obj\Debug\MyBlog.Api.pdb

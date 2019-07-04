@@ -1,0 +1,48 @@
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Data\bin\Debug\MyBlog.Data.dll.config
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Data\bin\Debug\MyBlog.Data.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Data\bin\Debug\MyBlog.Data.pdb
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Data\bin\Debug\EntityFramework.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Data\bin\Debug\EntityFramework.xml
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Data\obj\Debug\MyBlog.Data.csproj.CoreCompileInputs.cache
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Data\obj\Debug\MyBlog.Data.csproj.CopyComplete
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Data\obj\Debug\MyBlog.Data.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Data\obj\Debug\MyBlog.Data.pdb
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.Data\obj\Debug\MyBlog.Data.csprojAssemblyReference.cache
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Data\bin\Debug\MyBlog.Data.dll.config
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Data\bin\Debug\MyBlog.Data.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Data\bin\Debug\MyBlog.Data.pdb
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Data\bin\Debug\EntityFramework.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Data\bin\Debug\EntityFramework.xml
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Data\obj\Debug\MyBlog.Data.csprojAssemblyReference.cache
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Data\obj\Debug\MyBlog.Data.csproj.CoreCompileInputs.cache
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Data\obj\Debug\MyBlog.Data.csproj.CopyComplete
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Data\obj\Debug\MyBlog.Data.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.Data\obj\Debug\MyBlog.Data.pdb
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Data\bin\Debug\MyBlog.Data.dll.config
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Data\bin\Debug\MyBlog.Data.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Data\bin\Debug\MyBlog.Data.pdb
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Data\bin\Debug\EntityFramework.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Data\bin\Debug\EntityFramework.xml
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Data\obj\Debug\MyBlog.Data.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Data\obj\Debug\MyBlog.Data.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Data\obj\Debug\MyBlog.Data.csproj.CopyComplete
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Data\obj\Debug\MyBlog.Data.dll
+C:\Users\Furkan\Desktop\Son\MyBlog\MyBlog.Data\obj\Debug\MyBlog.Data.pdb
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Data\bin\Debug\MyBlog.Data.dll.config
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Data\bin\Debug\MyBlog.Data.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Data\bin\Debug\MyBlog.Data.pdb
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Data\bin\Debug\EntityFramework.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Data\bin\Debug\EntityFramework.xml
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Data\obj\Debug\MyBlog.Data.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Data\obj\Debug\MyBlog.Data.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Data\obj\Debug\MyBlog.Data.csproj.CopyComplete
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Data\obj\Debug\MyBlog.Data.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.Data\obj\Debug\MyBlog.Data.pdb

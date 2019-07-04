@@ -1,0 +1,18 @@
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.DTO\bin\Debug\MyBlog.DTO.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.DTO\bin\Debug\MyBlog.DTO.pdb
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.DTO\obj\Debug\MyBlog.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.DTO\obj\Debug\MyBlog.DTO.dll
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.DTO\obj\Debug\MyBlog.DTO.pdb
+C:\Users\Bülent Başyurt\source\repos\MyBlog\MyBlog.DTO\obj\Debug\MyBlog.DTO.csprojAssemblyReference.cache
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.DTO\bin\Debug\MyBlog.DTO.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.DTO\bin\Debug\MyBlog.DTO.pdb
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.DTO\obj\Debug\MyBlog.DTO.csprojAssemblyReference.cache
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.DTO\obj\Debug\MyBlog.DTO.csproj.CoreCompileInputs.cache
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.DTO\obj\Debug\MyBlog.DTO.dll
+E:\Sabah\fuBlog\New folder\MyBlog\MyBlog.DTO\obj\Debug\MyBlog.DTO.pdb
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.DTO\bin\Debug\MyBlog.DTO.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.DTO\bin\Debug\MyBlog.DTO.pdb
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.DTO\obj\Debug\MyBlog.DTO.csprojAssemblyReference.cache
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.DTO\obj\Debug\MyBlog.DTO.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.DTO\obj\Debug\MyBlog.DTO.dll
+C:\Users\Furkan\Desktop\New folder (2)\MyBlog\MyBlog.DTO\obj\Debug\MyBlog.DTO.pdb
